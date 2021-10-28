@@ -1,4 +1,4 @@
-## Edge AI dataset 
+## Energy edge AI dataset 
 
 
 Dataset of measurements of performance and power consumption of an AI service at the network edge. The experimental setup is comprised of a 3GPP R10-compliant LTE base station (BS), a user equipment (UE) generating service requests via the BS to a well-known object recognition service, and an off-the-shelf server with an NVIDIA GPU running the service. Each request consists of an image with a variable number of objects from the COCO dataset. The images are sent to the service via the uplink channel of the LTE interface, and the service returns bounding boxes and a classification label of the identified objects to the user via the downlink channel of the LTE interface. 
@@ -66,7 +66,7 @@ Jose A. Ayala-Romero, A. Garcia-Saavedra, X. Costa-Perez, G. Iosifidis (2021). E
 ## Citing Work
 If you use the data please cite the following:
 ```
-@inproceedings{ayala2021experimental,
+@inproceedings{ayala2021edgebol,
   title={EdgeBOL: Automating Energy-savings for Mobile Edge AI},
   author={Ayala-Romero, Jose A and Garcia-Saavedra, Andres and Costa-Perez, Xavier and Iosifidis, George},
   booktitle={ACM CoNEXT 2021},
