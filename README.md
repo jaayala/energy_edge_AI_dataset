@@ -5,7 +5,7 @@ Dataset of measurements of performance and power consumption of an AI service at
 
 We provide two files. In 'ai_edge_dataset.csv', each value is the average of 150 images from COCO dataset. Moreover, we provide the per-image values in 'ai_edge_dataset_all.csv'. The details of the experiments and the software and hardware used can be found in the paper:
 
-Jose A. Ayala-Romero, A. Garcia-Saavedra, X. Costa-Perez, G. Iosifidis (2021). EdgeBOL: Automating Energy-savings for Mobile Edge AI. Submitted to ACM CoNEXT 2021.
+Jose A. Ayala-Romero, A. Garcia-Saavedra, X. Costa-Perez, G. Iosifidis (2021). EdgeBOL: Automating Energy-savings for Mobile Edge AI. ACM CoNEXT 2021.
 
 
 
